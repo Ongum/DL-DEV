@@ -1,0 +1,2 @@
+Preprocessing completed at 20240909_175653
+Number of reviews processed: 53319
